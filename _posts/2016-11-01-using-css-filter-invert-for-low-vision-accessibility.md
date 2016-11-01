@@ -28,9 +28,9 @@ body {
 
 Seriously, css filters are amazing. You can see how much of a difference below!
 
-![eBroker Software create client afterUI](/images/inverted/create-client-before.png)
+![eBroker Software create client afterUI](/images/filter-inverted/create-client-before.png)
 
-![eBroker Software create client inverted](/images/inverted/create-client-inverted.png)
+![eBroker Software create client inverted](/images/filter-inverted/create-client-inverted.png)
 
 ### I still can't read those tiny fonts?
 
@@ -78,4 +78,4 @@ We also added icons here as well, our normal mode relies on alert coloring alone
 
 ### Result
 
-There were a few other minor styling changes to add contrast, but you get the idea. One of our apps is now enabled for low-vision, and we'll be looking to expand other accessability features as we move forward.
+There were a few other minor styling changes to add contrast, but you get the idea. One of our apps is now enabled for low-vision, and we'll be looking to expand other accessibility features as we move forward.
